@@ -1,1 +1,3 @@
-This is the first for checking CI/CD process
+#!/bin/bash
+#This is the first for for checking CI/CD process
+echo Suresh Stanam
